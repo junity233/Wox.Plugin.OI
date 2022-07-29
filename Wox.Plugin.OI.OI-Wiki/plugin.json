@@ -1,0 +1,12 @@
+{
+    "ID":"B08F5D919B1A4384A2720A3E9BE72D74",
+    "ActionKeyword":"oiwiki",
+    "Name":"OI Wiki Tool",
+    "Description":"一些关于OI Wiki的操作",
+    "Author":"Junity",
+    "Version":"1.0.0",
+    "Language":"python",
+    "Website":"http://www.junity.cc",
+    "IcoPath": "logo.png",
+    "ExecuteFileName":"main.py"
+  }

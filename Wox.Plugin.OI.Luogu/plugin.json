@@ -1,0 +1,12 @@
+{
+    "ID":"F136054A70AC40B6A1CFCF1A1DB7DD7E",
+    "ActionKeyword":"luogu",
+    "Name":"Luogu Tool",
+    "Description":"一些关于洛谷的操作",
+    "Author":"Junity",
+    "Version":"1.0.0",
+    "Language":"python",
+    "Website":"http://www.junity.cc",
+    "IcoPath": "logo.jpg",
+    "ExecuteFileName":"main.py"
+  }
